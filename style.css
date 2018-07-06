@@ -1,0 +1,9 @@
+body {
+	background: linear-gradient(to right,#00ff00,#ff0000);
+	text-align: center;
+	color: white;
+}
+h1 {
+	text-transform: uppercase;
+	letter-spacing: 4px;
+}
